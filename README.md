@@ -1,4 +1,6 @@
-![main Branch Status](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main)
+Main Branch ![main Branch Status](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main)
+
+Dev Branch
 ![main Branch Status](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev)
 
 
