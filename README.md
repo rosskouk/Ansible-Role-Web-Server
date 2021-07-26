@@ -1,3 +1,7 @@
+![main Branch Status](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main)
+![main Branch Status](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev)
+
+
 Role Name
 =========
 
