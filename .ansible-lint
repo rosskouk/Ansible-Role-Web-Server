@@ -1,5 +1,5 @@
 ---
-skip_list:
-  - meta-incorrect
-  - meta-no-info
-  - role_name
+# skip_list:
+#  - meta-incorrect
+#  - meta-no-info
+#  - role_name
