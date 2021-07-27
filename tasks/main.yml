@@ -1,0 +1,23 @@
+---
+# tasks file for web_server
+- name: Install Apache
+  ansible.builtin.package:
+    name: httpd
+    state: present
+
+- name: Copy a web page
+  ansible.builtin.copy:
+    content: |
+      <html>
+      <head><title>Hello World!</title></head>
+      <body>Hello World!</body>
+      </html>
+    dest: /var/www/html/index.html
+    mode: '0644'
+  notify: restart_apache
+
+- name: Ensure Apache is running
+  ansible.builtin.service:
+    name: httpd
+    state: started
+    enabled: true

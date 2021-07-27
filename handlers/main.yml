@@ -1,0 +1,6 @@
+---
+# handlers file for web_server
+- name: restart_apache
+  ansible.builtin.service:
+    name: httpd
+    state: restarted
