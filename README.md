@@ -1,6 +1,6 @@
 # Web Server
 
-A test Ansible role to install Apache and allow Molecule testing
+A test Ansible role to install Apache and allow Molecule testing.
 
 ## Testing
 
