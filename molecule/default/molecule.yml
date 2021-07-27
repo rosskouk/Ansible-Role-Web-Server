@@ -6,7 +6,7 @@ driver:
 lint: |
   set -e
   yamllint .
-  ansible-lint -x meta-incorrect,meta-no-info,role_name
+  ansible-lint
 platforms:
   - name: centos
     image: kclcomputeandstorage/molecule_centos:7
