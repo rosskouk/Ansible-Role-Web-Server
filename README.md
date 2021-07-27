@@ -7,7 +7,7 @@ A brief description of the role goes here
 
 | Main Branch | Dev Branch |
 |:------------|:-----------|
-| ![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main) | ![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev) |
+| [![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rosskouk/Ansible-Role-Web-Server/actions) | ![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev) |
 
 Requirements
 ------------
