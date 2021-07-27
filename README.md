@@ -6,7 +6,7 @@ A test Ansible role to install Apache and allow Molecule testing.
 
 | Main Branch | Dev Branch |
 |:------------|:-----------|
-| [![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rosskouk/Ansible-Role-Web-Server/actions) | [![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/rosskouk/Ansible-Role-Web-Server/actions) |
+| [![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/rosskouk/Ansible-Role-Web-Server/actions) | [![CI](https://github.com/rosskouk/molecule-test/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/rosskouk/Ansible-Role-Web-Server/actions) |
 
 ## Requirements
 
