@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: web_server
+  namespace: kcl
   author: Ross Stewart
   description: Test role which installs apache
   company: King's Service Centre
