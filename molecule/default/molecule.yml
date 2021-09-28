@@ -6,7 +6,7 @@ driver:
 lint: |
   set -e
   yamllint .
-  ansible-lint -c ../../.ansible-lint
+  
 platforms:
   - name: centos
     image: kclcomputeandstorage/molecule_centos:7
@@ -23,6 +23,7 @@ platforms:
 #      - /sys/fs/cgroup:/sys/fs/cgroup:ro
 #    privileged: true
 #    pre_build_image: true
+#ansible-lint -c ../../.ansible-lint
 
 provisioner:
   name: ansible
