@@ -31,6 +31,3 @@ rules:
     type: unix
   trailing-spaces: disable
   truthy: disable
-
-skip_list:
-  - role-name
