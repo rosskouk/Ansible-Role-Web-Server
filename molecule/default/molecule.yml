@@ -9,7 +9,7 @@ driver:
 #  ansible-lint -c ../../.ansible-lint
 platforms:
   - name: centos
-    image: kclcomputeandstorage/molecule_centos:7
+    image: kclcomputeandstorage/molecule_centos-7:5
     command: ''
     volumes:
       - /sys/fs/cgroup:/sys/fs/cgroup:ro
